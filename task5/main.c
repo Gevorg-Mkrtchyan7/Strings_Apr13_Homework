@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-char copy(char*, char*);
+char* copy(char*, char*);
 
 int main(){
 	char str1[20] = {};
